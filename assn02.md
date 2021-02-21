@@ -82,3 +82,4 @@ Specialization in Agronomy and Plant Breeding,
 +	Knowledge of Agricultural extension services
 +	Knowledge of greenhouse improvement
 +	Experience of teaching different courses 
+#bio_project
